@@ -1,0 +1,13 @@
+filename = 'Wallpapers-forge-1.20.1-1.8.0-1.20.1.jar'
+name = 'Wallpapers'
+side = 'both'
+
+[download]
+hash = '4b4207ddf9d4cba34ea7a477d756db94f33a35fb8092709ad766c38a0853c9e2baf09119c0c37c6b12ae7ce91eb5aaa28969499a2608cbc17d67741e6e105739'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JsJ52MHU/versions/wpbXn4di/Wallpapers-forge-1.20.1-1.8.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'JsJ52MHU'
+version = 'wpbXn4di'

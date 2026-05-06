@@ -1,0 +1,13 @@
+filename = 'Waxed & Shiny-forge-1.1.8-1.20.1.jar'
+name = 'Waxed & Shiny'
+side = 'both'
+
+[download]
+hash = '46eade7c4da2ffcd21f5cd7c736e17784a8b2c13ca31427a4f52bef6694fa06679073ee571ebe697c77a4781e5675cb351053334eff2d23e16d73cef4c36db74'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pZMc9viQ/versions/4yEpAIIA/Waxed %26 Shiny-forge-1.1.8-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'pZMc9viQ'
+version = '4yEpAIIA'

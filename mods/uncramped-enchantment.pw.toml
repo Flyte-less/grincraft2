@@ -1,0 +1,14 @@
+filename = 'uncramped_enchantment-forge-0.1.0+1.20.1.jar'
+name = 'Uncramped Enchantment'
+side = 'server'
+
+[download]
+hash = '886fd4d77a704816cddf006137e62736914a2563ff77d6ec185dd21cff45c6dd81fad42d0d1c0d7e34540e091f5657656e18e13eaf62abccb963403c7ef933c6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gdBhKBXC/versions/FTdHzegG/uncramped_enchantment-forge-0.1.0%2B1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'gdBhKBXC'
+version = 'FTdHzegG'
+

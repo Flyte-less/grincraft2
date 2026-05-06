@@ -1,0 +1,14 @@
+filename = 'earlybedtime-forge-1.0.0-1.20.1.jar'
+name = 'Early Bedtime'
+side = 'server'
+
+[download]
+hash = '877799bd7244fcb869cec3e4f9a19ab7934eac7f702bbf78fb4a14d3932664bd7ee0608f33789ef6f21eef616e19efe899d8785a72d1115e9598c4f25bb10bb4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TjcYKx6s/versions/OFXekXrB/earlybedtime-forge-1.0.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'TjcYKx6s'
+version = 'OFXekXrB'
+

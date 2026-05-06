@@ -1,0 +1,14 @@
+filename = 'aether_gloves_for_all-1.20.1-2.1.1-neoforge.jar'
+name = 'Aether Compat: Gloves For All'
+side = 'both'
+
+[download]
+hash = '479d8c5a295e36eaa2df71b48e3de76f44cfd46d70f66a333f85d128ac9d245be11c58613622775ef3fece24c6b51fc84f16054d50d0ff576814f8e4a6b1d966'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/VW8cvuMf/versions/2sHPFceZ/aether_gloves_for_all-1.20.1-2.1.1-neoforge.jar'
+
+[update.modrinth]
+mod-id = 'VW8cvuMf'
+version = '2sHPFceZ'
+

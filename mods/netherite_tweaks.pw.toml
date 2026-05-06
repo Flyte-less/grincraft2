@@ -1,0 +1,13 @@
+filename = 'netherite_tweaks_luna-1.2.2-forge-1.20.1.jar'
+name = 'Netherite Tweaks'
+side = 'both'
+
+[download]
+hash = 'aa24e9356fa8b71521ad9e3a92f50acd7a1832e6200544353a81ef24007ccea56963a2f95a329d9908a28044fe4b564659d301bdf6e37159216cbac76fe083a2'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/BTilh4Mp/versions/AMtNV3lz/netherite_tweaks_luna-1.2.2-forge-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'BTilh4Mp'
+version = 'AMtNV3lz'

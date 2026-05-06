@@ -1,0 +1,14 @@
+filename = 'Tinted Campfires-1.20.1-1.2.11.jar'
+name = 'Tinted Campfires'
+side = 'both'
+
+[download]
+hash = '5c721fabca70e3d3e7c14e4cdc4048a9cdee4c5d844934cdc1c1b5ac415501ef3905b09ce32cf1138317bb9fc5b26dc134c39ce598f7a26d004b6a1265465042'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/M7fxJvf2/versions/aCiVlL3X/Tinted Campfires-1.20.1-1.2.11.jar'
+
+[update.modrinth]
+mod-id = 'M7fxJvf2'
+version = 'aCiVlL3X'
+

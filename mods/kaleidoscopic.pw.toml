@@ -1,0 +1,14 @@
+filename = 'Kaleidoscopic-forge-1.20.1-1.0.0.jar'
+name = 'Kaleidoscopic'
+side = 'both'
+
+[download]
+hash = '576b6d4270fcf785365a5c6c8b4f1351126983a320f3007c2ff6116902ffcc2aa533e9f4da2062f067a2597840c959350de596161e9d8fb3ee33a6ecac0a45a6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/EpJtowwl/versions/k3cxFb6y/Kaleidoscopic-forge-1.20.1-1.0.0.jar'
+
+[update.modrinth]
+mod-id = 'EpJtowwl'
+version = 'k3cxFb6y'
+

@@ -1,0 +1,13 @@
+filename = 'particle_effects-1.20.1-Forge-1.0.1.jar'
+name = 'Particle Effects Reforged'
+side = ''
+
+[download]
+hash = 'ffb8beed3583d1e36b4d02719602a5f056b517c2fb64910ca37a6bb6abc3a076c54cbfda8fb67952794927405b78217b020027a373f27bdfc51975b0b8610dca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QxYN8FNF/versions/8iDqRPkw/particle_effects-1.20.1-Forge-1.0.1.jar'
+
+[update.modrinth]
+mod-id = 'QxYN8FNF'
+version = '8iDqRPkw'

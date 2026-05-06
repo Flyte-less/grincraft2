@@ -1,0 +1,14 @@
+filename = 'foolproof-forge-1.0.4-1.20.1.jar'
+name = 'Foolproof'
+side = 'both'
+
+[download]
+hash = '5a551b5b6b12dbacbdde1f8730fd2c55403e5b0f565d1cad8482903315a5d708aaac411f506c70bfa298f95e4fb39507b8a3be393dfb0302a7722bcb48e88b1d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QUbgerPk/versions/IYOLF4TR/foolproof-forge-1.0.4-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'QUbgerPk'
+version = 'IYOLF4TR'
+

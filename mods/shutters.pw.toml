@@ -1,0 +1,13 @@
+filename = 'shutter-2.4.0-1.20.1.jar'
+name = 'Shutters'
+side = 'both'
+
+[download]
+hash = 'eb749c62429c7677bfdad2901e2de1eea9704b76aa61d7ad59018e16943dc5c5c4b64362ca8364010d17d89021c038055352f2d19f035c0eb02f74b3eceab62d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NjHNA0vG/versions/epucmkZh/shutter-2.4.0-1.20.1.jar'
+
+[update.modrinth]
+mod-id = 'NjHNA0vG'
+version = 'epucmkZh'
