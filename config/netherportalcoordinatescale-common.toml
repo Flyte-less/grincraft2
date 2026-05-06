@@ -1,0 +1,6 @@
+
+#Coordinate scale factor
+[general]
+	#Range: 0.01 ~ 64.0
+	scale = 4
+

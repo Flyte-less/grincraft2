@@ -1,0 +1,272 @@
+
+#Disables certain types. Note that all these configs, like in any other mod, only hide stuff from tabs and disable their recipes
+[types]
+
+	[types.wood_type]
+
+		[types.wood_type.caverns_and_chasms]
+			azalea = true
+
+		[types.wood_type.outer_end]
+			azure = true
+
+		[types.wood_type.gardens_of_the_dead]
+			whistlecane = true
+			soulblight = true
+
+		[types.wood_type.quark]
+			azalea = true
+			ancient = true
+			blossom = true
+
+		[types.wood_type.aether]
+			skyroot = true
+
+		[types.wood_type.architects_palette]
+			twisted = true
+
+		[types.wood_type.environmental]
+			willow = true
+			pine = true
+			plum = true
+			wisteria = true
+
+		[types.wood_type.upgrade_aquatic]
+			driftwood = true
+			river = true
+
+		[types.wood_type.endergetic]
+			poise = true
+
+		[types.wood_type.botania]
+			livingwood = true
+			dreamwood = true
+
+		[types.wood_type.atmospheric]
+			rosewood = true
+			morado = true
+			yucca = true
+			aspen = true
+			laurel = true
+			kousa = true
+			grimwood = true
+
+		[types.wood_type.autumnity]
+			maple = true
+
+		[types.wood_type.arts_and_crafts]
+			cork = true
+
+		[types.wood_type.snifferplus]
+			stone_pine = true
+
+		[types.wood_type.sullysmod]
+			petrified = true
+
+		[types.wood_type.aether_redux]
+			fieldsproot = true
+			blightwillow = true
+			cloudcap = true
+			jellyshroom = true
+			crystal = true
+			glacia = true
+
+		[types.wood_type.betterarcheology]
+			rotten = true
+
+		[types.wood_type.spawn]
+			rotten = true
+
+		[types.wood_type.palegardenbackport]
+			pale_oak = true
+
+	[types.cake]
+
+		[types.cake.neapolitan]
+			vanilla_cake = true
+			chocolate_cake = true
+			strawberry_cake = true
+			banana_cake = true
+			mint_cake = true
+			adzuki_cake = true
+
+		[types.cake.exquisito]
+			chorus_cake = true
+			ether_bulb_cake = true
+			jelly_ring_cake = true
+			nightshade_berry_cake = true
+			zure_berry_cake = true
+
+		[types.cake.galospheric_delight]
+			salted_caramel_cake = true
+
+	[types.leaves_type]
+
+		[types.leaves_type.aether]
+			skyroot = true
+			golden_oak = true
+			crystal = true
+			crystal_fruit = true
+			holiday = true
+			decorated_holiday = true
+
+		[types.leaves_type.architects_palette]
+			twisted = true
+
+		[types.leaves_type.outer_end]
+			azure = true
+
+		[types.leaves_type.environmental]
+			hibiscus = true
+			willow = true
+			pine = true
+			plum = true
+			cheerful_plum = true
+			moody_plum = true
+			wisteria = true
+			pink_wisteria = true
+			blue_wisteria = true
+			purple_wisteria = true
+			white_wisteria = true
+
+		[types.leaves_type.upgrade_aquatic]
+			river = true
+
+		[types.leaves_type.atmospheric]
+			rosewood = true
+			morado = true
+			flowering_morado = true
+			yucca = true
+			aspen = true
+			green_aspen = true
+			laurel = true
+			dry_laurel = true
+			kousa = true
+			currant = true
+			grimwood = true
+
+		[types.leaves_type.autumnity]
+			maple = true
+			yellow_maple = true
+			orange_maple = true
+			red_maple = true
+
+		[types.leaves_type.quark]
+			ancient = true
+			blue_blossom = true
+			lavender_blossom = true
+			orange_blossom = true
+			yellow_blossom = true
+			red_blossom = true
+
+		[types.leaves_type.arts_and_crafts]
+			cork = true
+
+		[types.leaves_type.snifferplus]
+			stone_pine = true
+
+		[types.leaves_type.fruitsdelight]
+			pear = true
+			hawberry = true
+			lychee = true
+			mango = true
+			persimmon = true
+			peach = true
+			orange = true
+			apple = true
+			mangosteen = true
+			bayberry = true
+			kiwi = true
+			fig = true
+			durian = true
+
+		[types.leaves_type.aether_redux]
+			fieldsproot = true
+			blightwillow = true
+			glacia = true
+			purple_glacia = true
+			gilded_oak = true
+			blighted_skyroot = true
+
+		[types.leaves_type.palegardenbackport]
+			pale_oak = true
+
+		[types.leaves_type.galosphere]
+			opal = true
+
+#Disables specific entries
+[entries]
+
+	[entries.wood_type]
+
+		[entries.wood_type.quark]
+			vertical_planks = true
+			post = true
+			trapped_chest = true
+			bookshelf = true
+			chest = true
+			stripped_post = true
+			ladder = true
+			hollow_log = true
+			vertical_slab = true
+
+		[entries.wood_type.architects_palette]
+			boards = true
+			board_stairs = true
+			railing = true
+			board_wall = true
+			board_slab = true
+
+		[entries.wood_type.another_furniture]
+			table = true
+			flower_box = true
+			shelf = true
+			drawer = true
+			shutter = true
+			bench = true
+			chair = true
+
+		[entries.wood_type.farmersdelight]
+			cabinet = true
+
+		[entries.wood_type.twigs]
+			table = true
+
+		[entries.wood_type.boatload]
+			large_boat = true
+			furnace_boat = true
+
+		[entries.wood_type.decorative_blocks]
+			beam = true
+			support = true
+			seat = true
+			palisade = true
+
+		[entries.wood_type.woodworks]
+			trapped_chest = true
+			boards = true
+			chest = true
+			beehive = true
+			bookshelf = true
+			chiseled_bookshelf = true
+			ladder = true
+
+		[entries.wood_type.hearth_and_home]
+			lattice = true
+			parquet = true
+			vertical_trim = true
+			trim = true
+			sanded_wood = true
+
+		[entries.wood_type.shutter]
+			shutter = true
+
+	[entries.leaves_type]
+
+		[entries.leaves_type.quark]
+			hedge = true
+			leaf_carpet = true
+
+		[entries.leaves_type.woodworks]
+			leaf_pile = true
+
