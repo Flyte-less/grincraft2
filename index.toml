@@ -2639,7 +2639,7 @@ metafile = true
 
 [[files]]
 file = "mods/forge-cit.pw.toml"
-hash = "f0f999293f442227eab70ab867bf14f1ed5c7f2ffda3d2e984a1e8e4e07daa24"
+hash = "aa80f559061dc262eeb6c0652bbc2edeb8372d5e17969e45e8e6e8bd9799ec12"
 metafile = true
 
 [[files]]
@@ -2962,7 +2962,7 @@ metafile = true
 
 [[files]]
 file = "mods/particle-effects-reforged.pw.toml"
-hash = "bf5fb035779483db5e782bcc6c2778dd2448c98fc97f12687ae4ca00bdc312b0"
+hash = "e1699b8b9238161d138a0959e73b660ec00104ef69e5af1d32a718be9b336d62"
 metafile = true
 
 [[files]]
