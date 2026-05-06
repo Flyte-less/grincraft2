@@ -1,6 +1,6 @@
 filename = 'simple_snowy_fix-forge-1.19-1.20.1-2.1.5.jar'
 name = 'Simple Snowy Fix (Forge / Fabric)'
-side = 'server'
+side = 'both'
 
 [download]
 hash = '21c093bd872240987b674f3e1fb18574ba190963385ae61829caec15b12a4780e63732be775011b608357725d9ebca30e182c56f51ae8f676d810e13a6642cfe'

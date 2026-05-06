@@ -1,6 +1,6 @@
 filename = 'ACE_mc1.20.6-3.1.1.jar'
 name = 'Audaki Cart Engine (Faster Minecarts)'
-side = 'server'
+side = 'both'
 
 [download]
 hash = 'd53e3a09aaab2615fdccd5d32858f825fb075169d72bf17c5c69f5c182be889bcf0e28f91a1a6f9a28303dcf1df478f9476eacbf7017274533fa4addeb9705b7'

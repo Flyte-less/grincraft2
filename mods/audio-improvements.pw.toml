@@ -6,7 +6,7 @@ side = 'client'
 hash = '463dbad5fcb5249619c8bf37dbb84a5bf12b30c001d22fd71f94e74e1fc2caf331cc058b7f0e863b7f1b3060a8a316a0c9ade76691cd137887930b1ca4472384'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/UPd4RNCU/versions/qpM4kjLH/Audio Improvements v1.3.1 - Forge 1.20.1.jar'
+url = 'https://cdn.modrinth.com/data/UPd4RNCU/versions/qpM4kjLH/Audio%20Improvements%20v1.3.1%20-%20Forge%201.20.1.jar'
 
 [update.modrinth]
 mod-id = 'UPd4RNCU'
