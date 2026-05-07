@@ -2153,10 +2153,6 @@ file = "defaultconfigs/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
-file = "icon.png"
-hash = "86bb6ad1f24edca5a2c23cefb05f3aaae445dbdf59e19baac8067321fb8fb815"
-
-[[files]]
 file = "mods/BeeFix-1.20-1.0.7.jar"
 hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"
 
