@@ -302,7 +302,7 @@ hash = "7c3c08045b3a7b145c95f9d187a71350a2d2655cfe156beb3b5cfd09ca074528"
 
 [[files]]
 file = "config/connectiblechains.toml"
-hash = "2db4aeb9cee8b04cc13c5231f1c8ddfec7f5abe716b280c2e1971fafdfbc4b76"
+hash = "11a9b8dd86678034e02bb2d45b7990c5177cab1bcf5eee5ed0e823f7cffab84d"
 
 [[files]]
 file = "config/connectivity.json"
@@ -438,7 +438,7 @@ hash = "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a"
 
 [[files]]
 file = "config/endermanoverhaul.jsonc"
-hash = "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003"
+hash = "6148f56fd2de425541eed1891ce559a810ed1d3bd5b1ec965cc8513b7965202e"
 
 [[files]]
 file = "config/entity_model_features.json"
@@ -510,7 +510,7 @@ hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
+hash = "c6df973ae8ada5ea2212721b54aa159bf4a340b02c14b6b9574580c181ef6518"
 
 [[files]]
 file = "config/farsight.json"
@@ -562,7 +562,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "f99df04e1944b69838bab2bc1992f5e298065f560de66ba00e1b2ac54dcccfcc"
+hash = "abb0fae8984aca79670d658ce54e4ff865677a9a239c8b59e5cb5895df3fa04a"
 
 [[files]]
 file = "config/forgery/fscript.ini"
@@ -829,6 +829,10 @@ file = "config/paxi/datapacks/Aether Ruined Portals 1.0.0-1.20.1.zip"
 hash = "dcf245d35ace7fd2dff75760b38c059153edb28cd7746f3340e7acc6694154c7"
 
 [[files]]
+file = "config/paxi/datapacks/Blueberry Pie Eggs.zip"
+hash = "1b0062f9e6e497b4c559f49f5588d3694d07ddeedf07a8268757d6f84f390507"
+
+[[files]]
 file = "config/paxi/datapacks/CQC Treeplacer Compat.zip"
 hash = "a349f2076249b08d0ed51e4ac3db7397d0015b3185f1045dccc1b832cd2d5048"
 
@@ -850,11 +854,23 @@ hash = "6ca4cd4def8eea7fcd8e9ecb09faa3457019c51786af087ce603b6313a4b23bc"
 
 [[files]]
 file = "config/paxi/datapacks/Diet Grincraft Compat.zip"
-hash = "972008c32da639ad70b24b0152a291cb2b799cc5ed678b4ec1bdca9c7cb08b0c"
+hash = "6c58b8afcc2bdb9216dc3f17c774b1545b8f21c9d7ff871e1039315d34caa55a"
 
 [[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
+
+[[files]]
+file = "config/paxi/datapacks/Grincraft Altar Repair.zip"
+hash = "7821b5b290914ddaf2c6a74568287f1502d7809f9dcfa0f8d088a0b70d005728"
+
+[[files]]
+file = "config/paxi/datapacks/Grincraft Chains Compat.zip"
+hash = "f7ec8e565aec16b864e9848fcbf75a94a771ca0d9956fa3ba013819d5f88d2ed"
+
+[[files]]
+file = "config/paxi/datapacks/Kaleidoscopic Fair Rocks.zip"
+hash = "f0f15c6ed5a71e907c5a7d04c38f835156bee7bd1488b1cc526cd0b45d6722f6"
 
 [[files]]
 file = "config/paxi/datapacks/Late Nature's Compass.zip"
@@ -863,6 +879,26 @@ hash = "d9459806293d755ca217df48b18db7445023ee65c7fa7f5dcbf15f256bb6de1c"
 [[files]]
 file = "config/paxi/datapacks/Less Hungry Sugar Diet.zip"
 hash = "3d97e5b2afb7af214fb95e11bc2709ac27ba0cabb2db4a65f9b599c65cdc59bb"
+
+[[files]]
+file = "config/paxi/datapacks/Lichen and Algae Recipes.zip"
+hash = "8eab05a6333cef8da9fb745bd25563c2a15763ac31549c17df39c77166c66c20"
+
+[[files]]
+file = "config/paxi/datapacks/Redux Burnable Logs.zip"
+hash = "80e31feff793c7c4d37614401e1ccd460618cdc9f94f556bd200363077724675"
+
+[[files]]
+file = "config/paxi/datapacks/Straw Silt.zip"
+hash = "8d8d1dd1226ed52587de01424bcf35c02e35abe2baf8bedec18d95615878bd58"
+
+[[files]]
+file = "config/paxi/datapacks/Windswept Grass Recipe.zip"
+hash = "ec3b97bfef6c398c7540721c1c5f24c8befc168122c251a31aa1745f09de3c9d"
+
+[[files]]
+file = "config/paxi/datapacks/Zanberry Recipe Fix.zip"
+hash = "95e18a3102985669767ce1cd4f44a25997e13e9e4caa99231af26d35fb75e355"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -890,7 +926,7 @@ hash = "43a7425a314be7d78c2e31d44ab8f46c5ee824ab10906ab8909923d23646b6ad"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "6b9172f2f6890b3dae6e77889f79b98a3dc1e004221b34221451724eb8b4c5bc"
+hash = "4ba46a6596f7f0c87440e2f3afc0748b3b0dabcfdc0f877f659cf9c3d8571dba"
 
 [[files]]
 file = "config/recipeessentials.json"
