@@ -313,7 +313,7 @@
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
-		"Enable Shulker Box Interaction" = false
+		"Enable Shulker Box Interaction" = true
 		"Enable Lava Interaction" = true
 		"Allow Opening Shulker Boxes" = true
 		"Allow Rotating Bundles" = true
@@ -333,9 +333,6 @@
 
 	[management.quick_armor_swapping]
 		"Swap Off Hand" = true
-
-	[management.hotbar_changer]
-		"Animation Time" = 7.0
 
 [tools]
 	Abacus = true
@@ -1609,7 +1606,7 @@
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
 		"Food Tooltips" = false
-		"Shulker Tooltips" = false
+		"Shulker Tooltips" = true
 		"Map Tooltips" = true
 		"Enchanting Tooltips" = true
 		"Fuel Time Tooltips" = true

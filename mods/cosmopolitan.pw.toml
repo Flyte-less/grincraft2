@@ -1,13 +1,14 @@
-name = "Cosmopolitan"
-filename = "cosmopolitan-1.20.1-1.5.2.jar"
-side = "both"
+filename = 'cosmopolitan-1.20.1-1.1.0.jar'
+name = 'Cosmopolitan'
+side = 'both'
 
 [download]
-url = "https://cdn.modrinth.com/data/QD61WOGN/versions/hOlgc6WC/cosmopolitan-1.20.1-1.5.2.jar"
-hash-format = "sha512"
-hash = "68928dd40b5921da2b06bd789ccbf80c268f0d0e2f806d32011f1ebc0bad4fd2866474c00b3d2c0d6d4bab2cd7d06a59183cb6b1456512bb25237373cf19dd59"
+hash = '0f8e1baa72dd05e692e20d31e4295ccbbd002485b4c3a2473db448718585d76e984d235b56ed2076c9906b47024b1c5966fb5024ed6396af78eaf4800ddd2a3d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/QD61WOGN/versions/7k3sWNXz/cosmopolitan-1.20.1-1.1.0.jar'
 
-[update]
 [update.modrinth]
-mod-id = "QD61WOGN"
-version = "hOlgc6WC"
+mod-id = 'QD61WOGN'
+version = '7k3sWNXz'
+
