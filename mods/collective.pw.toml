@@ -1,13 +1,13 @@
-filename = 'collective-1.20.1-8.19.jar'
-name = 'Collective'
-side = 'both'
+name = "Collective"
+filename = "collective-1.20.1-8.22.jar"
+side = "both"
 
 [download]
-hash = '4de515d3a21a36fe91da9065f949c3bdf084eb06c1ba5c285dff9cfa9e39b6c77bc081a42f964c012ff8acaa80cad9d8e68a5bfecccc1a4a593250cf15483e22'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/rbFaiVhz/collective-1.20.1-8.19.jar'
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/VaV1h0dI/collective-1.20.1-8.22.jar"
+hash-format = "sha512"
+hash = "dfa86af390ee66bf57091fc9e57ac81f9e35c460baa294a107a681b24ba00f93c8e206fb68e7916c9f2e9d5f82b90ccb9c9bd09159d81f2b9bd06523bd1bcd72"
 
+[update]
 [update.modrinth]
-mod-id = 'e0M1UDsY'
-version = 'rbFaiVhz'
+mod-id = "e0M1UDsY"
+version = "VaV1h0dI"
