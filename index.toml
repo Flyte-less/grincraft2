@@ -2476,7 +2476,7 @@ metafile = true
 
 [[files]]
 file = "mods/cosmopolitan.pw.toml"
-hash = "72cf56f98ecd3fd7c501f304285a73cd998909909efecbceb8ed50f9f510a10f"
+hash = "2c316528c37d97c142eb729064b974315900b82f5846fd150c452fc394db7925"
 metafile = true
 
 [[files]]
@@ -2551,7 +2551,7 @@ metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "e741233897afdb85952c10ad802f186645de15d917538923a3a999d36c5f0201"
+hash = "44b50d45ebd8d610d9ce43b281112367c5d7ab2a6dec57309e41ab6e29e5649d"
 metafile = true
 
 [[files]]
@@ -2716,7 +2716,7 @@ metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
-hash = "0552f4c8362fa60bf97818462298717719142d5898eec408450f2f013f928145"
+hash = "8c9bf2340efd567e58abc90de76da4dc8557d1db89560cab71ca596ab5e3cf0f"
 metafile = true
 
 [[files]]
