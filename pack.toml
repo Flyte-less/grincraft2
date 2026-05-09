@@ -1,12 +1,12 @@
 name = "Grincraft 2.1"
 author = "Grinner Zone"
-version = "2.1.3b"
+version = "2.1.3c"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9b08e2f62cc894b54b4477fb9834b2a79db4362b813767abc76cda88335cf99a"
+hash = "ae2e82d4205713f01890e6c335c762418360c463c407be00c254cf2dcd3b5747"
 
 [versions]
 forge = "47.4.20"
