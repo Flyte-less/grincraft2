@@ -2551,7 +2551,7 @@ metafile = true
 
 [[files]]
 file = "mods/display-delight.pw.toml"
-hash = "44b50d45ebd8d610d9ce43b281112367c5d7ab2a6dec57309e41ab6e29e5649d"
+hash = "2850634a1f438dd3d34f5936e697f99052d932cddea5e37bca646ac4d5c2090d"
 metafile = true
 
 [[files]]
@@ -2716,7 +2716,7 @@ metafile = true
 
 [[files]]
 file = "mods/fruits-delight.pw.toml"
-hash = "8c9bf2340efd567e58abc90de76da4dc8557d1db89560cab71ca596ab5e3cf0f"
+hash = "56c13de005d72f6006247fb1997c9c1ac2c30127a3746b947d4fb891d9fc7da5"
 metafile = true
 
 [[files]]
