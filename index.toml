@@ -798,7 +798,7 @@ hash = "8d10be6aa1ef250cca2bf564dea134cfe79cdd33af89febe7923ca613b540859"
 
 [[files]]
 file = "config/particle_core_config.toml"
-hash = "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634"
+hash = "b1be7e09883ab1b233b53ef11d5fd1b5602122610624366214c61130b718698c"
 
 [[files]]
 file = "config/particle_core_disabled_optimizations_v2.json"
@@ -857,6 +857,14 @@ file = "config/paxi/datapacks/Diet Grincraft Compat.zip"
 hash = "6c58b8afcc2bdb9216dc3f17c774b1545b8f21c9d7ff871e1039315d34caa55a"
 
 [[files]]
+file = "config/paxi/datapacks/Dragon Egg Duplication.zip"
+hash = "55e040b54af0281fc41706f8442edb41a8ae25c9ed803da27ae7001eb894f28f"
+
+[[files]]
+file = "config/paxi/datapacks/EasyShulkerSacks.zip"
+hash = "5dfe1e607d174861173e5dd47793177b20b92f21c39181821b7383019cc99df6"
+
+[[files]]
 file = "config/paxi/datapacks/Farmer's Delight Cutting Compat 1.0.zip"
 hash = "e7444cde0a4df808545b1b89daab457516ff6d879ee969a98957c00c5f1923a3"
 
@@ -867,6 +875,10 @@ hash = "7821b5b290914ddaf2c6a74568287f1502d7809f9dcfa0f8d088a0b70d005728"
 [[files]]
 file = "config/paxi/datapacks/Grincraft Chains Compat.zip"
 hash = "f7ec8e565aec16b864e9848fcbf75a94a771ca0d9956fa3ba013819d5f88d2ed"
+
+[[files]]
+file = "config/paxi/datapacks/GrincraftEasyShulkerCompat.zip"
+hash = "b604704dc0e8c4dfe98dbba248d69ed873205fc7dcd58438b5aec4c93cb8afbc"
 
 [[files]]
 file = "config/paxi/datapacks/Kaleidoscopic Fair Rocks.zip"
@@ -897,8 +909,16 @@ file = "config/paxi/datapacks/Windswept Grass Recipe.zip"
 hash = "ec3b97bfef6c398c7540721c1c5f24c8befc168122c251a31aa1745f09de3c9d"
 
 [[files]]
+file = "config/paxi/datapacks/Wynd Oat Seed Pouch.zip"
+hash = "dd6e725bda02500f0265c96caf91c4f2b97cb98b81a77856c16655b6048773c8"
+
+[[files]]
 file = "config/paxi/datapacks/Zanberry Recipe Fix.zip"
 hash = "95e18a3102985669767ce1cd4f44a25997e13e9e4caa99231af26d35fb75e355"
+
+[[files]]
+file = "config/paxi/datapacks/trueending_v1.1.0c_1.20.x.zip"
+hash = "5ae687c24bfcbac29d19e479aed2b1c0c1fdff82b1fb229a0a48cb0684765db1"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -2440,6 +2460,11 @@ hash = "5b0eaf19630d6145093ae6ff9a21cf2dbdd0da53d9289673ad5ccb099afa18b7"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
+metafile = true
+
+[[files]]
 file = "mods/coroutil.pw.toml"
 hash = "89d57c44bf14cc65ecd0e445ced875294cddf0c20f9a6eb8cfa669ad82277cde"
 metafile = true
@@ -2742,6 +2767,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "0d488e991176c1c9256f85951252a3dccd48523faf6ecd2be5678f435c441aae"
+metafile = true
+
+[[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "fa721b8fd8604fdc63cfc36f5863504cabbf86bc34b6cbaebfcb27a445dfa5e0"
 metafile = true
 
 [[files]]
@@ -3058,6 +3088,11 @@ hash = "3c22f899f92292d7f8dbd5e493b5ddaedd7493f42d38ec75c24f76f42a1240ff"
 metafile = true
 
 [[files]]
+file = "mods/rainbow-lamp.pw.toml"
+hash = "d8c208b4e3a40939fc46ed85951bdb27bac765fb8aff905a4d6a93458aec0732"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "346314904e0a035d68514e7d9e332d4a63e288abc7fd7bdfaf6d655c511a5916"
 metafile = true
@@ -3105,6 +3140,11 @@ metafile = true
 [[files]]
 file = "mods/screenshot-viewer.pw.toml"
 hash = "3dcbcb74d0d4f56cfbac31d71796ec11f2ae418582f6ce6b4750a3fc675ff98c"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
 
 [[files]]
